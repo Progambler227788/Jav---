@@ -1,0 +1,10 @@
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\bin\Debug\NumberBaseConverter.exe.config
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\bin\Debug\NumberBaseConverter.exe
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\bin\Debug\NumberBaseConverter.pdb
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.csproj.AssemblyReference.cache
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.Form1.resources
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.Properties.Resources.resources
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.csproj.GenerateResource.cache
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.csproj.CoreCompileInputs.cache
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.exe
+D:\Javeria APi\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.pdb
